@@ -5,7 +5,7 @@ const [first,...rest] = numbers;
 console.log(rest); 
 
 const obj = {
-    name : "varun reddy",
+    name : "Rishi Vanama",
     age : 20,
     rollno : "22b81a12c5"
 }
