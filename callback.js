@@ -1,6 +1,6 @@
 const fetchUser = (id,callback)=>{
     console.log("Fetching user name");
-    callback("varun");
+    callback("Rishi");
 }
 const fetchOrder = (username,callback) =>{
     console.log(`Fetching ${username} order`);
